@@ -3,6 +3,7 @@ uvicorn[standard]
 sqlalchemy
 pydantic[email]
 psycopg2-binary
+python-dotenv
 python-jose[cryptography]
 bcrypt
 python-multipart
