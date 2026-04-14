@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+psycopg2-binary
+python-jose[cryptography]
+bcrypt
+python-multipart
+slowapi
+mangum
